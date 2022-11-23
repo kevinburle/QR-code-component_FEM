@@ -1,4 +1,4 @@
-- Live Site URL: [here](https://kevinburle.github.io/qr-code-component_FEM/)
+- Live Site URL: [here](https://kevinburle.github.io/QR-code-component_FEM/)
 
 # Frontend Mentor - QR code component solution
 
